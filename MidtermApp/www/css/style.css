@@ -1,0 +1,37 @@
+/* Empty. Add your own CSS if you like */
+
+.Scbooks {
+	background-repeat: no-repeat;
+	background-position: 50%;
+	height: 100%;
+	background-image: url("https://lh5.ggpht.com/9C20jlf8STXvIVyEfaYFVNHzDIIWK2qxfRKfmpWkHn-koZxamvdqOsBpmTZvLoCDWHM=w300");
+	background-size: contain;
+}
+
+.fbooks {
+	background-repeat: no-repeat;
+	background-position: 50%;
+	height: 100%;
+	background-image: url("http://www.webtreksearch.com/images/fiction2.jpg");
+	background-size: contain;
+}
+
+.nfbooks {
+	background-repeat: no-repeat;
+	background-position: 50%;
+	height: 100%;
+	background-image: url("http://3.imimg.com/data3/NN/EX/MY-15752449/non-fiction-books-250x250.jpg");
+	background-size: contain;
+}
+
+.hbooks {
+	background-repeat: no-repeat;
+	background-position: 50%;
+	height: 100%;
+	background-image: url("http://www.harpyness.com/wp-content/uploads/2010/11/history-books.png");
+	background-size: contain;
+}
+
+.ionic_ratings .icon {
+	font-size: 50px;
+}

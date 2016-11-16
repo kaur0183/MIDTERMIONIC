@@ -1,0 +1,15 @@
+<ion-view view-title="{{Category.title}}">
+	<ion-content class="padding">
+
+		<h1>Non-Fiction</h1>
+
+		<div ng-repeat="book in books">
+			<a href="#/tab/nonfiction/{{book._id}}">
+				<img ng-src="{{book.image}}" style="width: 64px; height: 64px"></a>
+			<p>
+				{{book.title}}
+			</p>
+		</div>
+
+	</ion-content>
+</ion-view>
